@@ -1,4 +1,3 @@
-// (08-05)
 #include "callbacks.h"
 
 bool visionStarted = false;  //is the vision running?
