@@ -3,7 +3,7 @@ The core code for 8 amplifiers. Aimed to provide a stable core script for everyo
 
 ==== List of files ====<br />
 826api.h: Include file for applications for Sensoray's model 826 board<br />
-AccelStepper.h: Arduino AccelStepper library. It provides an object-oriented interface for 2, 3 or 4 pin stepper motors.<br />
+AccelStepper.h: Arduino AccelStepper library. It provides an object-oriented interface for 2, 3 or 4 pin stepper motors. It is modified to control the amplifier driver.<br />
 AutoFabrication.h:<br />
 callbacks.h:<br />
 coilFieldControl.h: Relate current output with magnetic field.<br />
