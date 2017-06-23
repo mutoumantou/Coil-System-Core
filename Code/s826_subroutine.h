@@ -2,7 +2,6 @@
 // Program created by Jiachen Zhang on 2014-08-12.
 // Program modified by Jiachen Zhang on 2014-08-13~20.
 // Program modified by ... on ... (Please follow this format to add any following modification info.)
-//
 
 #ifndef S826_SUBROUTINE_H
 #define S826_SUBROUTINE_H
@@ -37,7 +36,6 @@
 #define _POSIX_C_SOURCE 200809L   //use the function gettime
 
 // SUBROUTINE
-
 int s826_init(void);
 int s826_close(void);
 int s826_aoPin(uint chan,uint rangeCode,double outputV);
